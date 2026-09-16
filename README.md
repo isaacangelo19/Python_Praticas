@@ -17,4 +17,5 @@
 - insert()
 - clear()
 - extend()
+- remove()
 
