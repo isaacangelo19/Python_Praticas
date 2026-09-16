@@ -11,3 +11,10 @@
 - strip()
 - lstrip()
 - rstrip()
+### Métodos de listas
+- index()
+- pop()
+- insert()
+- clear()
+- extend()
+
