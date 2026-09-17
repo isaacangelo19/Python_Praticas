@@ -18,4 +18,8 @@
 - clear()
 - extend()
 - remove()
+### Funções
+- zip()
+- enumerate()
+- range()
 
