@@ -1,6 +1,5 @@
 # Conte vogais em uma palavra
 word = "Python"
-vowel_count = 0
 vogais = 'aeiou   '
 
 for i, item in enumerate(vogais.strip()):
