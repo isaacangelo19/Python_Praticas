@@ -39,5 +39,3 @@ for antigo, novo in zip(snapshot_antigo, snapshot_novo):
         print(f'id {antigo['id']} mudou de preço de {antigo['preco'.lower()]} para {novo['preco'.lower()]}')
     else:
         print(f'id {antigo["id"]} SEM MUDANÇA')
-    for i, x in zip(antigo["id"], novo['id']):
-        print(i,x)
