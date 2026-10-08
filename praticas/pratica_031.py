@@ -17,6 +17,3 @@ for aluno, nota in notas.items():
 
 media = soma_nota/len(notas.keys())
 print(f'A média foi {media:.2f}')
-
-maior_nota = notas.values()
-print(maior_nota)
